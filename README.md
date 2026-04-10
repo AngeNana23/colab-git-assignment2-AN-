@@ -1,2 +1,2 @@
 # -colab-git-assignment2--AN-
-Assignment 2
+Artificial Intelligence Assignments
